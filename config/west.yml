@@ -3,7 +3,7 @@ manifest:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
     - name: karnadii
-      url-base: https://github.com/karnadii/
+      url-base: https://github.com/karnadii
   projects:
     - name: zmk
       remote: karnadii
