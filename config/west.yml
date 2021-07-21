@@ -7,7 +7,7 @@ manifest:
   projects:
     - name: zmk
       remote: karnadii
-      revision: zmk-config-shabrina
+      revision: sofle-shabrina
       import: app/west.yml
   self:
     path: config
